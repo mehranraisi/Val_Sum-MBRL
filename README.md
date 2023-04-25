@@ -12,7 +12,7 @@ In this repository we provide code for Val-Sum algorithm described in the paper 
   year={2022}
   url          = {https://arxiv.org/pdf/2209.08169.pdf},
 }
-
+```
 To run experiments in the paper, you will have to specify the environment names from these options: 'InvertedDoublePendulum-v2', 'Hopper-v3', 'Humanoid-v3', 'HumanoidStandup-v2', 'Pusher-v2', 'Reacher-v2', 'Ant-v3', 'HalfCheetah-v3'. It is recommended to install gym version '0.19.0'.
 
 For instance you can use the following command to train the agent:
